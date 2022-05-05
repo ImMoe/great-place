@@ -1,0 +1,25 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "title": "Stenpiren",
+      "description": "A lovely place in Gothenburg",
+      "country": "Sweden",
+      "url": "https://www.naturstenskompaniet.se/assets/stenpiren-gra-kurugranit.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Passau",
+      "description": "A lovely place in Munich",
+      "country": "Germany",
+      "url": "https://assets.vogue.com/photos/5891ed92186d7c1b6493bc18/master/pass/00-holding-munich-travel-guide.jpg"
+    },
+    {
+      "title": "Venezia",
+      "description": "The sunset in Venice is really beautiful",
+      "country": "Italy",
+      "url": "https://i.imgur.com/Pt0gQxW.png",
+      "id": 3
+    }
+  ]
+}
